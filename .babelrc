@@ -1,0 +1,16 @@
+{
+  "presets": ["@babel/preset-env"],
+  "plugins": [
+    ["@babel/plugin-transform-runtime"],
+    [
+      "module-resolver",
+      {
+        "root": ["./app"],
+        "alias": {
+          "^core-js/modules/(.+)$": "core-js/modules/\\1.js",
+          "@app/*": "./app/*"
+        }
+      }
+    ]
+  ]
+}

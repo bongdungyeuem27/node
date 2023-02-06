@@ -1,0 +1,19 @@
+{
+    "verbose": true,
+    "watch": [
+        "./app"
+    ],
+    "ext": "ts,json,js",
+    "ignore": [
+        ".git",
+        ".gitignore",
+        "access.log",
+        "debug.log",
+        "./public/**/*.spec.ts",
+        "node_modules"
+    ],
+    "exec": "node ./app/app.js",
+    "env": {
+        "NODE_ENV": "development"
+    }
+}

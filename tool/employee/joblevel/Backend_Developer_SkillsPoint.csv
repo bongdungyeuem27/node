@@ -1,0 +1,114 @@
+﻿Level,Skill,Detail,Point
+Intern,Internet,Internet Basic,4
+Intern,Internet,HTTP Basic,4
+Intern,Internet,Browsers,4
+Intern,Internet,DNS,4
+Intern,Internet,Domain Name,4
+Intern,Internet,Hosting,4
+Intern,Basic Frontend Knowledge,HTML Basic,4
+Intern,Basic Frontend Knowledge,CSS,4
+Intern,Basic Frontend Knowledge,JavaScript,4
+Intern,OS and General Knowledge,Terminal usage,4
+Intern,OS and General Knowledge,Operating Systems,4
+Intern,OS and General Knowledge,Process Management,4
+Intern,OS and General Knowledge,Threads and Concurrency,4
+Intern,OS and General Knowledge,Basic Terminal Commands,4
+Intern,OS and General Knowledge,Memory Management,4
+Intern,OS and General Knowledge,Interprocess Communication,4
+Intern,OS and General Knowledge,I/O Management,4
+Intern,OS and General Knowledge,POSIX Basics,4
+Intern,OS and General Knowledge,Basic Networking Concepts,4
+Intern,Learn a Language,Rust,3
+Intern,Learn a Language,Go,3
+Intern,Learn a Language,Python,3
+Intern,Learn a Language,Ruby,3
+Intern,Learn a Language,C#,3
+Intern,Learn a Language,Java ,3
+Intern,Learn a Language,PHP,3
+Intern,Version Control Systems,Git,4
+Intern,Version Control Systems,GitHub,4
+Intern,Version Control Systems,GitLap,3
+Intern,Version Control Systems,Bitbucket,3
+Intern,Relational Databases,PostgreSQL,4
+Intern,Relational Databases,My SQL,3
+Intern,Relational Databases,MS SQL,3
+Intern,Relational Databases,Oracle,3
+Intern,Relational Databases,MariaDB,3
+Fresher,More Databases,ORMs,4
+Fresher,More Databases,ACID,4
+Fresher,More Databases,Database Normalization,4
+Fresher,More Databases,Database Indexes,4
+Fresher,More Databases,Transactions,4
+Fresher,More Databases,N plus one problem,4
+Fresher,More Databases,Data Replication,2
+Fresher,More Databases,Sharding strategies,2
+Fresher,More Databases,CAP Theorem,2
+Fresher,No SQL,Document databases,1
+Fresher,No SQL,Column Databases,1
+Fresher,No SQL,Timeseries databases,1
+Fresher,No SQL,Realtime databases,1
+Fresher,APIs,REST,4
+Fresher,APIs,JSON APIs,4
+Fresher,APIs,gRPC,4
+Fresher,APIs,Authentication,4
+Fresher,APIs,SOAP,3
+Fresher,APIs,Hateoas,3
+Fresher,APIs,Open api spec,3
+Junior ,Authentication,Oauth,4
+Junior ,Authentication,Basic authentication,4
+Junior ,Authentication,Token authentication,4
+Junior ,Authentication,JWT,4
+Junior ,Authentication,Cookie-Based Authentication,3
+Junior ,Authentication,Saml,3
+Junior ,Authentication,OpenID,3
+Junior ,Caching,CDN (Content Delivery Network),4
+Junior ,Caching,Client Side Caching,4
+Junior ,Caching,Server side,1
+Junior ,Server side,Redis,4
+Junior ,Server side,Memcached,3
+Junior ,Web Security Knowledge,HTTPS,4
+Junior ,Web Security Knowledge,Content Security Policy,4
+Junior ,Web Security Knowledge,Cors,4
+Junior ,Web Security Knowledge,SSL/TLS,4
+Junior ,Web Security Knowledge,OWASP Security Risks,4
+Junior ,Web Security Knowledge,MD5,1
+Junior ,Web Security Knowledge,SHA family,1
+Junior ,Web Security Knowledge,Scrypt,1
+Junior ,Web Security Knowledge,Bcrypt,1
+Junior ,Testing,Integration Testing,4
+Junior ,Testing,Integration Testing,4
+Junior ,Testing,Functional Testing,4
+Mid Level,CI/CD,CI/CD,4
+Mid Level,Design and development principles,SOLID,4
+Mid Level,Design and development principles,KISS,4
+Mid Level,Design and development principles,YAGNI,4
+Mid Level,Design and development principles,DRY,4
+Mid Level,Design and development principles,Test Driven Development,2
+Mid Level,Design and development principles,Domain-Driven Design,2
+Mid Level,Design and development principles,Design Patterns,2
+Mid Level,Architectural Patterns,Monolithic Apps,4
+Mid Level,Architectural Patterns,Microservices,4
+Mid Level,Architectural Patterns,SOA,4
+Mid Level,Architectural Patterns,Serverless,4
+Mid Level,Architectural Patterns,CQRS and Event Sourcing,1
+Mid Level,Search engines,Elasticsearch,4
+Mid Level,Search engines,Solr,3
+Mid Level,Message Brokers,RabbitMQ,4
+Mid Level,Message Brokers,Kafka,3
+Mid Level,Containerization vs. Virtualization,Docker,4
+Mid Level,Containerization vs. Virtualization,LXC,1
+Mid Level,Graphql,Apollo,4
+Mid Level,Graphql,Relay Modern,3
+Mid Level,Graph databases,Neo4j,2
+Mid Level,Web sockets,Web sockets,2
+Mid Level,Web Servers,Nginx,4
+Mid Level,Web Servers,Apache,3
+Mid Level,Web Servers,Caddy,3
+Mid Level,Web Servers,MS IIS,3
+Senior ,Building for Scale,Mitigation Strategies,4
+Senior ,Building for Scale,Instrumentation,1
+Senior ,Building for Scale,Monitoring,1
+Senior ,Building for Scale,Telemetry,1
+Senior ,Building for Scale,Migration Strategies,4
+Senior ,Building for Scale,Horizontal/Vertical Scaling,4
+Senior ,Building for Scale,Observability,4

@@ -1,0 +1,77 @@
+﻿Level,Skill,Detail,Point
+Intern,Internet,HTTP,4
+Intern,Internet,DNS,4
+Intern,Internet,Domain,4
+Intern,HTML,SEO Basics,2
+Intern,HTML,Accessibility,2
+Intern,HTML,HTML Basics,4
+Intern,HTML,Forms and Validations,4
+Intern,HTML,Semantic HTML,4
+Intern,CSS,CSS Basics,4
+Intern,CSS,Making layouts,4
+Intern,CSS,Responsive Web Design,4
+Intern,JavaScript,Syntax and Basic Contructs,4
+Intern,JavaScript,DOM Manipulation,4
+Intern,JavaScript,Ajax,4
+Intern,JavaScript,ES6 + and modular JavaScript,4
+Intern,JavaScript,DOM Manipulation,4
+Intern,UI/UX Tool,Azure 9+,2
+Intern,UI/UX Tool,Figma,2
+Fresher,Version Control Systems,Git,4
+Fresher,Version Control Systems,GitHub,4
+Fresher,Version Control Systems,Bitbucket,3
+Fresher,Version Control Systems,GitLab,3
+Fresher,Basic Web Security Knowledge,HTTPS,2
+Fresher,Basic Web Security Knowledge,CORS,2
+Fresher,Basic Web Security Knowledge,Content Security Policy,2
+Fresher,Basic Web Security Knowledge,OWASP Security Risks,2
+Fresher,CSS Architecture,BEM,2
+Fresher,CSS Preprocessors,Sass,2
+Fresher,CSS Preprocessors,PostCSS,2
+Fresher,Package Managers,npm,4
+Fresher,Package Managers,Yarn,2
+Fresher,Package Managers,pnpm,2
+Fresher,CSS frameworks,Bootstrap,3
+Fresher,CSS frameworks,Bulma,3
+Junior ,Build Tools,npm Scripts,4
+Junior ,Build Tools,Vite,4
+Junior ,Build Tools,esbuild,4
+Junior ,Build Tools,Webpack,3
+Junior ,Build Tools,Rollup,3
+Junior ,Build Tools,Parcel,3
+Junior ,Framework,React,4
+Junior ,Framework,Angular,3
+Junior ,Framework,Svelte,3
+Junior ,Framework,Vue.js,3
+Junior ,Modern CSS,Styled components,4
+Junior ,Modern CSS,CSS Modules,4
+Junior ,Modern CSS,Styled JSX,3
+Junior ,Modern CSS,Emotion,3
+Junior ,Testing,Jest,4
+Junior ,Testing,React Testing Library,4
+Junior ,Testing,Cypress,4
+Junior ,Testing,Playwright,4
+Junior ,Testing,Enzyme,4
+Junior ,Web Components,HTML Templates,2
+Junior ,Web Components,Custom Elements,2
+Junior ,Web Components,Shadow DOM,2
+Junior ,Type Checkers,TypeScript,3
+Junior ,Progressive Web Apps,PWA APIs,2
+Junior ,Progressive Web Apps,Performance,2
+Mid Level,Server-side rendering,Remix,4
+Mid Level,Server-side rendering,Next.js,4
+Mid Level,Server-side rendering,Angular Universal,3
+Mid Level,Server-side rendering,Nuxt.js,3
+Mid Level,Static Site Generators,Eleventy,4
+Mid Level,Static Site Generators,Next.js,3
+Mid Level,Static Site Generators,Gatsby,3
+Mid Level,Static Site Generators,Vuepress,3
+Mid Level,Graphql,Apollo,4
+Mid Level,Graphql,Relay Modern,3
+Mid Level,Mobile applications,NativeScript,1
+Mid Level,Mobile applications,Ionic,1
+Mid Level,Mobile applications,Flutter,4
+Mid Level,Mobile applications,React Native,4
+Mid Level,Desktop Applications in JavaScript,Electron,4
+Mid Level,Desktop Applications in JavaScript,Tauri,3
+Senior ,Web Assembly,Web Assembly,2

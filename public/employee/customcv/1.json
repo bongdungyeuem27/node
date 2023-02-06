@@ -1,0 +1,6 @@
+{
+    "id": "1",
+    "name": "AS",
+    "image": "http://node.iscv.ftisu.vn/employee/customcv/getnftimage/1.jpeg",
+    "data": "{\"autoCreatement\":3,\"list\":{\"1\":{\"top\":128,\"left\":224,\"type\":\"text\",\"name\":\"Text1\"},\"2\":{\"top\":256,\"left\":128,\"type\":\"name\",\"name\":\"Name2\"}}}"
+}

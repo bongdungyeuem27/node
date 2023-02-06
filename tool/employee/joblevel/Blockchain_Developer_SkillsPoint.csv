@@ -1,0 +1,80 @@
+﻿Level,Skill,Detail,Point
+Intern,Basic Blockchain Knowledge,What is Blockchain?,4
+Intern,Basic Blockchain Knowledge,Decentralization,4
+Intern,Basic Blockchain Knowledge,Why it matters?,4
+Intern,Basic Blockchain Knowledge,Blockchain Structure,4
+Intern,Basic Blockchain Knowledge,Basic Blockchain Operations,4
+Intern,Basic Blockchain Knowledge,Applications and Uses,4
+Intern,General Blockchain Knowledge,Mining and Incentive Models,4
+Intern,General Blockchain Knowledge,Decentralization vs Trust,4
+Intern,General Blockchain Knowledge,Blockchain Forking,4
+Intern,General Blockchain Knowledge,Cryptocurrencies,4
+Intern,General Blockchain Knowledge,Cryptowallets,4
+Intern,General Blockchain Knowledge,Cryptography,4
+Intern,General Blockchain Knowledge,Consensus Protocols,4
+Intern,General Blockchain Knowledge,Blockchain Interoperability,4
+Intern,Storage, Storage,4
+Intern,On-chain Programming,Ethereum,4
+Intern,On-chain Programming,Solana,3
+Intern,On-chain Programming,TON,3
+Intern,On-chain Programming,Near,3
+Fresher,Smart Contracts,ERC Tokens,4
+Fresher,Smart Contracts,IDEs,4
+Fresher,Smart Contracts,Crypto Faucets,4
+Fresher,Smart Contracts,Decentralized Storage,4
+Fresher,Smart Contract Frameworks,Hardhat,4
+Fresher,Smart Contract Frameworks,Truffle,3
+Fresher,Smart Contract Frameworks,Brownie,3
+Fresher,Smart Contract Frameworks,Foundry,3
+Fresher,Language programming,Solidity,4
+Fresher,Language programming,Rust,4
+Fresher,Language programming,C,3
+Fresher,Language programming,C++,3
+Fresher,Language programming,Javascript,4
+Fresher,Language programming,Typescript,4
+Fresher,Frontend Frameworks,React,4
+Fresher,Frontend Frameworks,Vue,3
+Fresher,Frontend Frameworks,Angular,3
+Junior,Testing,Unit Tests,4
+Junior,Testing,Integration Tests,4
+Junior,Testing,Code Coverage,4
+Junior,Smart Contracts,Deployment,4
+Junior,Smart Contracts,Monitoring,4
+Junior,Smart Contracts,Upgrades,4
+Junior,Oracles,Hybrid Smart Contracts,4
+Junior,Oracles,Chain link,4
+Junior,Oracles,Oracle Networks,4
+Junior,Repo Hosting Services,GitHub,4
+Junior,Repo Hosting Services,GitLab,3
+Junior,Repo Hosting Services,Bitbucket,3
+Junior,Client libraries,Ethers.js,4
+Junior,Client libraries,Web3.js,3
+Junior,Client libraries,Moralis SDK,3
+Junior,Applicability,Insurance,3
+Junior,Applicability,Payments,3
+Junior,Applicability,NFTs,4
+Mid Level,Applicability,DAOs,4
+Mid Level,Applicability,DeFi,4
+Mid Level,Management Platforms,OpenZeppelin,4
+Mid Level,Tools,Slither,4
+Mid Level,Tools,Manticore,4
+Mid Level,Tools,Mythx,3
+Mid Level,Tools,Echidna,3
+Mid Level,Client Nodes,Geth,4
+Mid Level,Client Nodes,Besu,4
+Mid Level,Client Nodes,Nethermind,4
+Mid Level,Client Nodes,Substrate,4
+Senior,Node as a Service (NaaS),Alchemy,3
+Senior,Node as a Service (NaaS),Infura,3
+Senior,Node as a Service (NaaS),Moralis,2
+Senior,Node as a Service (NaaS),Quicknode,2
+Senior,Supporting Languages,Python,3
+Senior,Supporting Languages,Go,3
+Senior,Building for Scale,State and Payment Channels,4
+Senior,Building for Scale,Optimistic Rollups and Fraud Proofs,4
+Senior,Building for Scale,Zero Knowledge Rollups and Zero Knowledge Proof,4
+Senior,Building for Scale,Validium,4
+Senior,Building for Scale,Plasma,4
+Senior,Building for Scale,Sidechains,4
+Senior,Building for Scale,Ethereum 2,4
+Senior,Building for Scale,On-Chain Scaling,4
