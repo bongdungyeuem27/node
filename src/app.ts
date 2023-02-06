@@ -59,8 +59,9 @@ app.use("/public", express.static("./public"));
 
 // ethers provider
 const provider = new ethers.providers.WebSocketProvider(
-  "wss://ganache.ftisu.vn/"
+  process.env.WEB3_ENDPOINT
 );
+
 app.set("provider", provider);
 
 // mongo

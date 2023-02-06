@@ -3,7 +3,7 @@ import { ApolloServerPluginDrainHttpServer } from "@apollo/server/plugin/drainHt
 import { ethers } from "ethers";
 import { IncomingMessage, Server, ServerResponse } from "http";
 import { Context } from "./context";
-import { resolvers } from "./resolver";
+import { resolvers } from "./resolvers";
 import { typeDefs } from "./schema";
 
 export const apolloServer = async (
