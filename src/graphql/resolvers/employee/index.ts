@@ -1,9 +1,11 @@
 import { useEmployee } from "~contracts/index";
 import { Context } from "../../context";
 import profile from "./profile";
+import skills from "./skills";
 
 export default {
   ...profile,
+  ...skills,
   employees: async (
     parent: any,
     args: string[],

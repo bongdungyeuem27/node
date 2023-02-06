@@ -31,6 +31,6 @@ export const typeDefs = `#graphql
     employees: [Employee]
     employee(id: ID!): Employee
     employeeByUser(user: String): Employee
-    skillsByEmployee(employeeId: ID!): [Skill]
+    skillsByEmployeeId(employeeId: ID!): [Skill]
   }
 `;
