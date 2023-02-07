@@ -1,15 +1,11 @@
-import { useEmployee } from "~contracts/index";
-import { Context } from "../context";
-import employee from "./employee";
+import { useEmployee } from '~contracts/index';
+import { Context } from '../context';
+import employee from './employee';
+import business from './business';
 export const resolvers = {
   Query: {
     ...employee,
-    books: async (parent, args, contextValue: Context) => {
-      return books;
-    },
-    book: async (parent, { title }) => books[0],
-
-   
+    ...business,
   },
   // Mutation: {
   //   uploadAvatar: async (parent, args, contextValue: Context) => {
@@ -17,16 +13,3 @@ export const resolvers = {
   //   },
   // },
 };
-
-const books = [
-  {
-    id: 0,
-    title: "The Awakening",
-    author: "Kate Chopin",
-  },
-  {
-    id: 1,
-    title: "City of Glass",
-    author: "Paul Auster",
-  },
-];
