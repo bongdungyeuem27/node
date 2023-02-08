@@ -8,7 +8,6 @@ export default {
       if (!employeeId) return;
       const provider = contextValue.provider;
       const employeeContract = useEmployee(provider);
-      console.log(employeeId)
       return await employeeContract.getAllSkill().then((success) => {
         return success
           .filter((value) => value.employeeId == employeeId)
@@ -20,7 +19,7 @@ export default {
           }));
       });
     } catch (error) {
-      console.log(error);
+      console.error(error);
       return error;
     }
   },
