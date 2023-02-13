@@ -3,7 +3,7 @@ import { BusinessController__factory } from './../typechain/factories/controller
 
 export const useBusiness = (provider: ethers.providers.WebSocketProvider) => {
   return BusinessController__factory.connect(
-    "0x21dF544947ba3E8b3c32561399E88B52Dc8b2823",
+    "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
     provider
   );
 };

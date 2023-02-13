@@ -21,7 +21,7 @@ export default {
 
   businessByUser: async (parent, args, contextValue: Context, info) => {
     const user: string = args.user;
-    if (!user) return;
+    if (user == undefined || user == null) return;
     info.cacheControl.setCacheHint({ maxAge: 600, scope: 'PRIVATE' });
     const provider = contextValue.provider;
     const businessContract = useBusiness(provider);
@@ -30,6 +30,29 @@ export default {
       .then((success) => {
         const data = success.find((value, index) => {
           return value.user.toLowerCase() === user.toLowerCase();
+        });
+        if (!data) return;
+        return {
+          ...data,
+          category: data.category.toNumber(),
+          id: data.id.toNumber(),
+        };
+      })
+      .catch((error) => {
+        console.log(error);
+      });
+  },
+  business: async (parent, args, contextValue: Context, info) => {
+    const id: number = args.id;
+    if (id === undefined || id === null) return;
+    info.cacheControl.setCacheHint({ maxAge: 600, scope: 'PRIVATE' });
+    const provider = contextValue.provider;
+    const businessContract = useBusiness(provider);
+    return await businessContract
+      .getAllProfile({})
+      .then((success) => {
+        const data = success.find((value, index) => {
+          return value.id.eq(id);
         });
         if (!data) return;
         return {

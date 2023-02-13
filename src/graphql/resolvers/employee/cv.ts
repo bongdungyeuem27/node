@@ -4,7 +4,7 @@ import { Context } from '~graphql/context';
 export default {
   cv: async (parent, args, contextValue: Context, info) => {
     const employeeId = args.employeeId;
-    if (!employeeId) return;
+    if (employeeId == null || employeeId == undefined) return;
     const provider = contextValue.provider;
     const employeeContract = useEmployee(provider);
     return await employeeContract

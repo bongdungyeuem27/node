@@ -73,8 +73,10 @@ export const typeDefs = `#graphql
     skillsByEmployeeId(employeeId: Int!): [Skill]
     cv(employeeId: Int!): CV
     businesses: [Business]
+    business(id: Int!): Business
     businessByUser(user: String): Business
     posts: [Post]
     postsByBusinessId(businessId: Int): [Post]
+    post(postId: Int!): Post
   }
 `;
